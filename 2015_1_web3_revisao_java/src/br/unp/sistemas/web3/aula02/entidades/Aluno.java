@@ -11,5 +11,4 @@ public class Aluno extends Pessoa {
     public void setAnoIngresso(int anoIngresso) {
         this.anoIngresso = anoIngresso;
     }
-
 }
